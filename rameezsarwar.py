@@ -59,7 +59,7 @@ logo='''
 ➣ Auther   : Rameez Sarwar
 ➣ GitHub   : https://github.com/rameezsarwar
 ➣ Fb Group Link  : https://www.facebook.com/groups/glenncarlo8/
-➣ Fb ID Link : https://rameez.sarwar.official
+➣ Fb ID Link : https://www.facebook.com/rameez.sarwar.official
 --------------------------------------------------
                                 '''
 
